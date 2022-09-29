@@ -19,9 +19,11 @@
 - 💬 Ask me about **c#, js, python,java,html,css,Dart**
 
 - 📫 How to reach me **okmarvins@gmail.com**
+- 📄 Resume  https://marvins56.github.io/Kauta_Marvin_Resume
+
 
 - LinkedIn **www.linkedin.com/in/kauta-marvin-bb9008126**
--RESUME * https://marvins56.github.io/Kauta_Marvin_Resume**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
