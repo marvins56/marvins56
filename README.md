@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [github.com/marvins56](github.com/marvins56)
+- 👨‍💻 All of my projects are available at github.com/marvins56
 
 - 💬 Ask me about **c#, js, python,java,html,css,Dart**
 
