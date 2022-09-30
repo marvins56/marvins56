@@ -21,7 +21,7 @@
 - 📫 How to reach me **okmarvins@gmail.com**
 - 📄 Resume  https://marvins56.github.io/Kauta_Marvin_Resume
 
-
+  
 - LinkedIn **www.linkedin.com/in/kauta-marvin-bb9008126**
  
 
