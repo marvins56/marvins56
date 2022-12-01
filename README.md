@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marvins56" alt="marvins56" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/marvin_kauta" target="blank"><img src="https://img.shields.io/twitter/follow/marvin_kauta?logo=twitter&style=for-the-badge" alt="marvin_kauta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kauta_marvin" target="blank"><img src="https://img.shields.io/twitter/follow/marvin_kauta?logo=twitter&style=for-the-badge" alt="marvin_kauta" /></a> </p>
 
 
 - 🌱 I’m currently learning **c#, js, python,java,html,css,c++,Dart**
