@@ -8,19 +8,18 @@
 
 <p align="left"> <a href="https://twitter.com/marvin_kauta" target="blank"><img src="https://img.shields.io/twitter/follow/marvin_kauta?logo=twitter&style=for-the-badge" alt="marvin_kauta" /></a> </p>
 
-- 🔭 I’m currently working on **TMS**
 
 - 🌱 I’m currently learning **c#, js, python,java,html,css,c++,Dart**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at https://github.com/marvins56
+<!-- - 👨‍💻 All of my projects are available at https://github.com/marvins56 -->
 
 - 💬 Ask me about **c#, js, python,java,html,css,Dart**
 
 - 📫 How to reach me **okmarvins@gmail.com**
-- 📄 Resume  https://marvins56.github.io/Kauta_Marvin_Resume
-
+<!-- - 📄 Resume  https://marvins56.github.io/Kauta_Marvin_Resume
+ -->
   
 - LinkedIn **www.linkedin.com/in/kauta-marvin-bb9008126**
  
