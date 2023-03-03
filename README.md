@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauta marvin</h1>
-<h3 align="center">A passionate frontend and backend developer from Uganda</h3>
+<h3 align="center">A passionate  backend developer from Uganda</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1664458635~exp=1664459235~hmac=c27b18932d86276448103f55ea29b5224a12a13d36550cafdc1087bc9597eb14"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvins56&label=Profile%20views&color=0e75b6&style=flat" alt="marvins56" /> </p>
