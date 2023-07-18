@@ -22,7 +22,7 @@
 
   
 - LinkedIn **www.linkedin.com/in/kauta-marvin-bb9008126**
- https://kautamarvin.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
