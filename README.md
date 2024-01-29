@@ -9,13 +9,13 @@
 <p align="left"> <a href="https://twitter.com/kauta_marvin" target="blank"><img src="https://img.shields.io/twitter/follow/kauta_marvin?logo=twitter&style=for-the-badge" alt="kauta_marvin" /></a> </p>
 
 
-- 🌱 I’m currently learning **c#, js, python,java,html,css,c++,Dart**
+- 🌱 I’m currently learning **c#, js, python,java,html,css,c++**
 
 - 👯 I’m looking to collaborate on **any project**
 
 <!-- - 👨‍💻 All of my projects are available at https://github.com/marvins56 -->
 
-- 💬 Ask me about **c#, js, python,java,html,css,Dart**
+- 💬 Ask me about **c#, js, python,java,html,css**
 
 - 📫 How to reach me **okmarvins@gmail.com**
 - 📄 website  **https://kautamarvin.netlify.app/**
